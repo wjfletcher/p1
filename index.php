@@ -39,8 +39,10 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#p1">P1</a></li>
+            <li><a href="#p2">P2</a></li>
+            <li><a href="#p3">P3</a></li>
+            <li><a href="#p4">P4</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
