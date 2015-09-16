@@ -4,6 +4,11 @@
     
 }
 
+.title {
+    text-align: center;
+    font-weight: bold;   
+}
+
 
 .section {
     border: 1px solid lightblue;
