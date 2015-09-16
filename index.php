@@ -38,11 +38,35 @@
             </div>
             <div id="navbar" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#p1">P1</a></li>
-                    <li><a href="#p2">P2</a></li>
-                    <li><a href="#p3">P3</a></li>
-                    <li><a href="#p4">P4</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Project 1 <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">View</a></li>
+                            <li><a href="#">Github</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Project 2 <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">View</a></li>
+                            <li><a href="#">Github</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Project 3 <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">View</a></li>
+                            <li><a href="#">Github</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Project 4 <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="#">View</a></li>
+                            <li><a href="#">Github</a></li>
+                        </ul>
+                    </li>
+                    
                 </ul>
             </div>
             <!--/.nav-collapse -->
@@ -60,31 +84,31 @@
         </div>
         <div class="section">
             <h1>In 2+ sentences describe who you are and what you do.</h1>
-            <p>adskljhas;ldh</p>
+            <p>I am a former South African now living in the Boston area. I work at the Harvard T.H. Chan School of Public Health (a mouthful since the name change after a massive donation from T.H. Chan!), in a laboratory that conducts research on cholesterol.</p>
         </div>
         <div class="section">
             <h1>Why are you taking this course?</h1>
-            <p>adskljhas;ldh</p>
+            <p>I am looking to change career paths to web development. I realized that working in a laboratory is not for me, and my second choice for majors in college was always computer science, and I find that I really enjoy the things I have done and learned so far in the field.</p>
         </div>
         <div class="section">
             <h1>What previous experience do you have with programming?</h1>
-            <p>adskljhas;ldh</p>
+            <p>I have taken numerous courses in computer programming and web development, giving me a basic understanding of languages such as C, Python, and PHP. I have also been building basic websites over the years.</p>
         </div>
         <div class="section">
             <h1>Are you working on a Mac, PC, or some other platform?</h1>
-            <p>adskljhas;ldh</p>
+            <p>I have always been a PC guy. Growing up in South Africa, we didn't even have the option to own Macs, so I learned everything on a PC, and I still find working on a PC more intuitive than a Mac.</p>
         </div>
         <div class="section">
             <h1>Anything else we should know?</h1>
-            <p>adskljhas;ldh</p>
+            <p>I'm an avid outdoorsman, and motorcyclist. I love mountain biking, dirt biking, and hiking up mountains, as you can see from my picture with my girlfriend halfway up Mt Washington!</p>
         </div>
     </div>
 
-            <!-- Bootstrap core JavaScript
+    <!-- Bootstrap core JavaScript
     ================================================== -->
-            <!-- Placed at the end of the document so the pages load faster -->
-            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
 </body>
 
