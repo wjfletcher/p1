@@ -48,7 +48,8 @@
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Project 2 <span class="caret"></span></a>
-                        <li class="title">XKCD Password Generator</li>
+                        <ul class="dropdown-menu">
+                            <li class="title">XKCD Password Generator</li>
                             <li><a href="http://p2.wjfletcher.me">View</a></li>
                             <li><a href="https://github.com/wjfletcher/p2">Github</a></li>
                         </ul>
