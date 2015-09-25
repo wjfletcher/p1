@@ -48,9 +48,9 @@
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Project 2 <span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="#">View</a></li>
-                            <li><a href="#">Github</a></li>
+                        <li class="title">XKCD Password Generator</li>
+                            <li><a href="http://p2.wjfletcher.me">View</a></li>
+                            <li><a href="https://github.com/wjfletcher/p2">Github</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
@@ -81,7 +81,7 @@
             <h1>Warren Fletcher</h1>
             <h2>Dynamic Web Applications Portfolio</h2>
             <br>
-            <img src="img/me.jpg">
+            <img src="img/me.jpg" alt="Picture of me">
         </div>
         <div class="section">
             <h1>In 2+ sentences describe who you are and what you do.</h1>
